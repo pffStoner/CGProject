@@ -1,0 +1,72 @@
+C:\Users\pffStoner\Desktop\trunk\last\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pffStoner\Desktop\trunk\last\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\trunk\last\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\trunk\last\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pffStoner\Desktop\trunk\last\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pffStoner\Desktop\trunk\last\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pffStoner\Desktop\trunk\last\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pffStoner\Desktop\trunk\last\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\trunk\last\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\trunk\last\obj\Debug\WindowsFormsApplication1.ShapeName.resources
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pffStoner\Desktop\trunk\New folder\last\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\trunk\New folder\last\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pffStoner\Desktop\trunk\New folder\last\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pffStoner\Desktop\trunk\New folder\last\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pffStoner\Desktop\trunk\New folder\last\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pffStoner\Desktop\trunk\New folder\last\obj\Debug\WindowsFormsApplication1.ShapeName.resources
+C:\Users\pffStoner\Desktop\trunk\New folder\last\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\MongoDB.Bson.dll
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\MongoDB.Driver.dll
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\MongoDB.Bson.xml
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\MongoDB.Driver.xml
+C:\Users\pffStoner\Desktop\trunk\New folder\last\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pffStoner\Desktop\New folder\last\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\New folder\last\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\MongoDB.Bson.dll
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\MongoDB.Driver.dll
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\MongoDB.Bson.xml
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\MongoDB.Driver.xml
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\pffStoner\Desktop\New folder\last\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pffStoner\Desktop\New folder\last\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\pffStoner\Desktop\New folder\last\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pffStoner\Desktop\New folder\last\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pffStoner\Desktop\New folder\last\obj\Debug\WindowsFormsApplication1.ShapeName.resources
+C:\Users\pffStoner\Desktop\New folder\last\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\pffStoner\Desktop\New folder\vbnc\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pffStoner\Desktop\New folder\vbnc\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\New folder\vbnc\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\New folder\workingProject\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pffStoner\Desktop\New folder\workingProject\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\New folder\workingProject\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\pffStoner\Desktop\SVN project\workingProject\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\SVN project\workingProject\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\MongoDB.Bson.dll
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\MongoDB.Driver.dll
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\MongoDB.Bson.xml
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\MongoDB.Driver.xml
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\pffStoner\Desktop\SVN project\workingProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pffStoner\Desktop\SVN project\workingProject\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\pffStoner\Desktop\SVN project\workingProject\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\pffStoner\Desktop\SVN project\workingProject\obj\Debug\WindowsFormsApplication1.ShapeName.resources
+C:\Users\pffStoner\Desktop\SVN project\workingProject\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
